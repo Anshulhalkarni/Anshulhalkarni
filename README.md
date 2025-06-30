@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on opensource
 - 🤔 I’m looking for help with Flutter Development.
 - 💬 Ask me about I am 3rd year AI & DS Engeering student.
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/anshul-halkarni-016058335/
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
