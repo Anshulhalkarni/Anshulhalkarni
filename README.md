@@ -6,7 +6,7 @@ Anshulhalkarni/Anshulhalkarni is a ✨ _special_ ✨ repository because its `REA
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DSA Leetcode , Al and Ml projects .
-- 🌱 I’m currently learning Postgrse SQL
+- 🌱 I’m currently learning Postgrse SQL,github core 
 - 👯 I’m looking to collaborate on opensource
 - 🤔 I’m looking for help with Flutter Development.
 - 💬 Ask me about I am 3rd year AI & DS Engeering student.
